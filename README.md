@@ -51,13 +51,6 @@ Cognix is a modern AI-powered chatbot that provides **quick, accurate, and conci
 
 ---
 
-## 📸 Screenshots
-
-> Add your project screenshots here
-> Example:
-> ![Chat UI](./assets/screenshot.png)
-
----
 
 ## ⚙️ Installation & Setup
 
