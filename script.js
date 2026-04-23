@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Generate response
   async function generateResponse(prompt) {
-    const apiKey = "AIzaSyDFz-68mM_3KBoY3gEG_dOTfV-X1LdMc_w";
+    const apiKey =" Enter Your Api key here";
 
     const response = await fetch(
       `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`,
